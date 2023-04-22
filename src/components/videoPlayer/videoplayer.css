@@ -1,0 +1,3 @@
+.video-react:hover .video-react-big-play-button, .video-react .video-react-big-play-button:focus,.video-react .video-react-big-play-button{
+    display: none;
+}

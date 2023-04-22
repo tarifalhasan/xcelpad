@@ -1,0 +1,129 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,400;0,500;0,600;0,700;1,400&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+.light {
+  background-color: #f3f2f4;
+}
+.dark {
+  background-color: #262528;
+}
+ul{padding: 0;margin: 0;}
+li,ul{
+    list-style-type: none;
+}
+a{text-decoration: none;}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6,p,label{
+    margin-bottom: 0;
+}
+.ps-8{
+    padding-left: 8px;
+}
+.pointer-event{
+  cursor: pointer;
+}
+.p-16{
+  padding: 8px;
+}
+.main_content{
+  margin-left: 200px;
+}
+button{
+  border: none;
+  outline: none;
+  font-size: 16px;
+  color:#FFFFFF;
+  background:#9360FF
+}
+.p-22{
+  padding: 22px;
+}
+.ml-20{
+  margin-left: 20px;
+}
+.mr-20{
+  margin-right: 20px;
+}
+
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl{
+  padding: 0;
+}
+.content{
+  padding: 0 20px;
+}
+.mb-10{
+  margin-bottom: 12px;
+}
+.font-11{
+  font-size: 11px;
+  font-weight: 500;
+}
+.font-12{
+  font-size: 12px;
+  font-weight: 600;
+}
+.css-1u9des2-indicatorSeparator{display: none;}
+.font-18{
+  font-size: 18px;
+  color: #44414C;
+}
+.bg-shadow{
+  background-color: #FAF9FB;
+  box-shadow: 0px 2.12866px 10.0172px rgba(22, 6, 172, 0.02), 0px 1.13052px 5.32008px rgba(22, 6, 172, 0.0161557), 0px 0.470434px 2.21381px rgba(22, 6, 172, 0.0112458);
+}
+.font-13{
+  font-size: 13px;
+  color: #44414C;
+  font-weight: 500;
+}
+/* #EBECF0 */
+.w-35{
+  width: 35%;
+}
+.w-40{
+  width: 40%;
+}
+.last-item-no-border:last-child{
+  border-bottom: none !important;
+}
+.font-14{
+  font-size: 14px;
+  font-weight: 500;
+}
+.font-16{
+  font-size: 16px;
+  font-weight: 500;
+  color:#44414C
+}
+.comment img{
+  width:40px
+}
+.comment p{
+  top: 5px;
+  left:50%;
+  transform: translate(-50%);
+  color: #fff;
+}
+.comment_input img,.profile_details img{
+  width:60px
+}
+.small_img {
+  width: 30px !important;
+}
+.disclaimer{
+  bottom: 0;
+  width: 100%;
+}
+.cmnt_text_active{
+  color: #EF4AF0;
+}
+.read_more_text,.read_more_text span{
+  text-decoration: underline;
+  color: #9360FF;
+}
+.navigation p{
+  font-size: 11px;
+}

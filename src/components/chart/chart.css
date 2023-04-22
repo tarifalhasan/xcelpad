@@ -1,0 +1,10 @@
+.recharts-wrapper svg g g g  path:nth-child(3),
+.recharts-wrapper svg g g g  path:nth-child(4),
+.recharts-wrapper svg g g g  circle,
+.recharts-wrapper svg g g g  text{
+    visibility:hidden;
+}
+.recharts-wrapper svg g g  g > path,
+.recharts-wrapper svg g g g  text:nth-child(1){
+    visibility: visible;
+}

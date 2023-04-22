@@ -1,0 +1,89 @@
+.switch_button{
+    position: relative;
+    border: 2px solid #a7a0b6;
+    border-radius: 4px;
+    width: 30px;
+    height: 18px;
+    border-radius: 18px;
+    padding: 5px;
+}
+.switch_button .dotted{
+    width: 8px;
+    height:8px;
+    background-color: #a7a0b6;
+    border-radius: 50%;
+    position: absolute;
+    left:3px;
+    top: 50%;
+    transform: translateY(-50%);
+    transition:.5s;
+}
+.advanced_filter.active .switch_button{
+    border: 2px solid #9360ff;
+}
+.advanced_filter.active .switch_button .dotted{
+    transition:.5s;
+    background-color: #9360ff;
+    right:3px;
+    left: auto;
+}
+.w-45{
+    width: 45%;
+}
+.search_bar img{
+    position: absolute;
+    top: 50%;
+    transform:translateY(-50%);
+    left: 5px;
+}
+.input_search{
+    width:100%;
+    background: #eae9ed;
+    box-shadow: inset 0px 2px 2px rgba(0, 0, 0, 0.02);
+    outline: none;
+    border: none;
+    padding: 10px;
+    padding-left: 35px;
+}
+.title_text{
+    font-weight: 600;
+    font-size: 12px;
+    color: #706781;
+}
+.css-13cymwt-control:hover,.css-t3ipsp-control:hover{
+    border-color:transparent !important;
+}
+.css-13cymwt-control,.css-t3ipsp-control{
+    border: none !important;
+    box-shadow: none !important;
+    background-color: #FAF9FB !important;
+}
+.css-b62m3t-container{
+    width: 166px;
+}
+.css-1nmdiq5-menu{
+    background-color: #FAF9FB !important;
+    margin-bottom: 0 !important;
+}
+.subscribe .input_search{
+    padding-left: 10px;
+    padding-right: 45px;
+}
+.subscribe img{
+    right: 0px;
+    background-color: #9360ff;
+    left:auto;
+    padding:12px
+}
+input.only{
+    width: 100%;
+    outline: none;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #dee2e6;
+    background: #eae9ed;
+    box-shadow: inset 0px 2px 2px rgba(0, 0, 0, 0.02);
+}
+.login_with img{
+    width: 30px;
+}

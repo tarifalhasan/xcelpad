@@ -1,0 +1,71 @@
+.title {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 48px;
+}
+.header{
+    background: linear-gradient(0deg, #FAF9FB 0%, #F3F2F4 100%);
+}
+.nav_link{
+    color: #A7A0B6;
+}
+.nav_link_active{
+    color:#706781
+}
+img.ethereum {
+    background: #fff;
+    padding: 3px 10px;
+}
+.dwn_arrow{
+
+}
+.wallet{
+    background-color: #FAF9FB;
+    padding:13.5px
+}
+.balance{
+    font-size:13px
+}
+.wallet_address{
+    font-size: 11px;
+}
+.create_button{
+
+    padding: 14px 30px;
+}
+.mr-1{
+    margin-right: 1px !important;
+}
+.filter_btn_wrap {
+    background: #EAE9ED;
+    padding: 4px;
+  }
+  .filter_btn_wrap  button{
+    background-color: transparent;
+    color: #44414C;
+    padding: 8px;
+  }
+  .filter_btn_wrap  button.active{
+    background-color: #fff;
+  }
+  .filter_menu ul li{
+    display: inline-block;
+    padding: 20px 17px;
+    text-transform: uppercase;
+    font-size: 13px;
+    color: #706781;
+    font-weight: 500;
+    transition: .3s;
+    cursor: pointer;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color:transparent ;
+  }
+  .filter_menu ul li:first-child{
+    padding-left: 0;
+  }
+  .filter_menu ul li.active{
+    color: #9360FF;
+    border-bottom-color: #9360FF;
+    font-size: 16px;
+  }

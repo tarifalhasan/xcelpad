@@ -1,0 +1,134 @@
+.crypto_name{
+    font-size: 18px;
+    font-weight: 500;
+}
+.status_upcoming{
+    background-color: #E5F6F6;
+    color: #41B7B7;
+    align-items: center;
+}
+.status_text{
+    font-size: 11px;
+    font-weight: 500;
+    padding: 4px 7px;
+    border-radius: 1px;
+    text-align: center;
+}
+.crypto_head,.crypto_footer{
+    background:#FAF9FB;
+    padding: 15px;
+}
+.crypto_body{
+    padding: 15px;
+    background:#fff
+}
+
+.mb-1 {
+    margin-bottom: 0.15rem!important;
+}
+.network_icon{
+    position: relative
+}
+.network_name_icon{
+    position: absolute;
+    bottom: -4px;
+    right: -4px;
+    background:#fff;
+    padding: 7px 5px;
+    width: 24px;
+height: 24px;
+}
+.network_value{
+    color: #706781;
+    font-size: 13px;
+    font-weight: 500;
+}
+.sale_status{
+    position:absolute;
+    top: -12px;
+    right:20px;
+    color:#AE51E8;
+    padding: 4px 7px;
+    background:#F7EEFD;
+    text-transform: capitalize;
+  }
+  .network_price{
+    color:#44414C;
+    font-weight: 500;
+font-size: 16px;
+  }
+
+.end_time span{
+    font-size:14px;
+    font-weight: 500;
+    color:#44414C
+}
+.crypto_footer_btn button{
+    padding: 8px 15px;
+}
+.crypto_footer_btn button.love{
+    background-color: rgba(234, 151, 151, 0.1);
+}
+.crypto_footer_btn button.notify{
+    background-color: rgba(137, 137, 226, 0.1);
+}
+.crypto_footer_btn button.view{
+    background-color: rgba(147, 96, 255, 0.1);
+    color: #9360FF;
+}
+.crypto_footer_btn button.view a{
+    color: #9360ff;
+}
+.stacking_pool{
+    position: relative;
+    font-weight: 500;
+    color:#fff;
+    background-color: #EF4AF0;
+    padding: 5px 8px;
+    right: -25px;
+}
+.stacking_pool::after{
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-top: 8.5px solid transparent;
+    border-bottom: 8.5px solid transparent;
+    border-right: 8.5px solid #DB27DC;
+    transform: rotate(45deg);
+    bottom: -10.2px;
+    right: 4px;
+}
+.xy-center-align{
+    bottom: 0;
+    right: 0
+}
+.xy-center-align button{
+    padding: 3px;
+}
+.xy-center-align button.KYC{
+    color: #7CB741;
+    background: rgba(124, 183, 65, 0.1);
+}
+.xy-center-align button.audit{
+    text-transform: capitalize;
+    color: #6C87E8;
+    background: rgba(108, 135, 232, 0.1);
+}
+.xy-center-align button.DD{
+    text-transform: capitalize;
+    color: #AE51E8;
+    background: rgba(174, 81, 232, 0.1);
+}
+.status_ended{
+    color: #E9BD3A;
+    background-color: #FBF4DF;
+}
+.status_canceled{
+    color: #746C84;
+    background: rgba(116, 108, 132, 0.1);
+}
+.status_live{
+    color: #FD4A4A;
+    background: rgba(253, 74, 74, 0.1);
+}

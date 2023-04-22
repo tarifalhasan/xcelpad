@@ -1,0 +1,47 @@
+body.dark .header {
+    background: linear-gradient(0deg, #2D2C30 0%, #262528 100%);
+  }
+  body.dark .nav_link {
+    color: #6C6878;
+  }
+  body.dark .title{
+    color: #F3F2F5;
+  }
+  body.dark .nav_link_active {
+    color: #A49FAD;
+  }
+  body.dark img.ethereum {
+    background: #2D2C30;;
+  }
+  body.dark .wallet {
+    background: #2D2C30;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.15), 0px 4px 4px rgba(0, 0, 0, 0.07);
+  }
+  
+  body.dark .filter_btn_wrap {
+    background: #212022;
+  }
+  body.dark .filter_btn_wrap button {
+    color: #F3F2F5;
+  }
+  body.dark .filter_btn_wrap button.active {
+    background-color: #37353B;
+  }
+  body.dark .filter_menu ul li,body.dark .advanced_filter p{
+    color: #A49FAD;
+  }
+  
+  body.dark .filter_menu ul li.active {
+    color: #9360ff;
+    border-bottom-color: #9360ff;
+  }
+  body.dark .bg-white{
+    background-color: #37353B !important;
+  }
+
+  body.dark .header .bg-shadow{
+    background-color: #2D2C30;
+  }
+  body.dark .header .font-18{
+    color: #F3F2F5;
+  }

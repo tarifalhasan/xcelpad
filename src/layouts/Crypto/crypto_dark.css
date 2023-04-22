@@ -1,0 +1,75 @@
+body.dark .status_upcoming {
+    background: rgba(65, 183, 183, 0.1);
+    color: #41B7B7;
+  }
+  body.dark .crypto_head,
+  body.dark .crypto_footer {
+    background: #2D2C30;
+box-shadow: 0px 2.12866px 10.0172px rgba(22, 6, 172, 0.02), 0px 1.13052px 5.32008px rgba(22, 6, 172, 0.0161557), 0px 0.470434px 2.21381px rgba(22, 6, 172, 0.0112458);
+  }
+  body.dark .crypto_body {
+    background: #37353B;
+    /* Small shadow light */
+    
+    box-shadow: 0px 2.12866px 10.0172px rgba(22, 6, 172, 0.02), 0px 1.13052px 5.32008px rgba(22, 6, 172, 0.0161557), 0px 0.470434px 2.21381px rgba(22, 6, 172, 0.0112458);
+  }
+  body.dark .crypto_name{
+    color: #F3F2F5;
+  }
+  body.dark .network_name_icon {
+    background: #fff;
+  }
+  body.dark .network_value {
+    color: #A49FAD;
+  }
+  body.dark .sale_status {
+    color: #AE51E8;;
+    background:#43384C;
+  }
+  body.dark .network_price {
+    color: #F3F2F5;
+  }
+  body.dark .end_time span {
+    color: #F3F2F5;
+  }
+  body.dark .crypto_footer_btn button.love {
+    background-color: rgba(234, 151, 151, 0.1);
+  }
+  body.dark .crypto_footer_btn button.notify {
+    background-color: rgba(137, 137, 226, 0.1);
+  }
+  body.dark .crypto_footer_btn button.view {
+    background-color: rgba(147, 96, 255, 0.1);
+    color: #9360ff;
+  }
+  body.dark .stacking_pool {
+    color: #fff;
+    background-color: #ef4af0;
+  }
+  body.dark .xy-center-align button.KYC {
+    color: #7cb741;
+    background: rgba(124, 183, 65, 0.1);
+  }
+  body.dark .xy-center-align button.audit {
+    color: #6c87e8;
+    background: rgba(108, 135, 232, 0.1);
+  }
+  body.dark .xy-center-align button.DD {
+    color: #ae51e8;
+    background: rgba(174, 81, 232, 0.1);
+  }
+  body.dark .status_ended {
+    color: #e9bd3a;
+    background-color: #fbf4df;
+  }
+  body.dark .status_canceled {
+    color: #746c84;
+    background: rgba(116, 108, 132, 0.1);
+  }
+  body.dark .status_live {
+    color: #fd4a4a;
+    background: rgba(253, 74, 74, 0.1);
+  }
+  body.dark .bottom-logo h4, body.dark .font-11{
+    color:#A49FAD;
+  }

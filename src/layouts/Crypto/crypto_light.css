@@ -1,0 +1,65 @@
+body.light .status_upcoming {
+    background: rgba(65, 183, 183, 0.1);
+    color: #41B7B7;
+}
+body.light .crypto_head,
+body.light .crypto_footer {
+  background: #faf9fb;
+}
+body.light .crypto_body {
+  background: #fff;
+}
+body.light .network_name_icon {
+  background: #fff;
+}
+body.light .network_value {
+  color: #706781;
+}
+body.light .sale_status {
+  color: #ae51e8;
+  background: #f7eefd;
+}
+body.light .network_price {
+  color: #44414c;
+}
+body.light .end_time span {
+  color: #44414c;
+}
+body.light .crypto_footer_btn button.love {
+  background-color: rgba(234, 151, 151, 0.1);
+}
+body.light .crypto_footer_btn button.notify {
+  background-color: rgba(137, 137, 226, 0.1);
+}
+body.light .crypto_footer_btn button.view {
+  background-color: rgba(147, 96, 255, 0.1);
+  color: #9360ff;
+}
+body.light .stacking_pool {
+  color: #fff;
+  background-color: #ef4af0;
+}
+body.light .xy-center-align button.KYC {
+  color: #7cb741;
+  background: rgba(124, 183, 65, 0.1);
+}
+body.light .xy-center-align button.audit {
+  color: #6c87e8;
+  background: rgba(108, 135, 232, 0.1);
+}
+body.light .xy-center-align button.DD {
+  color: #ae51e8;
+  background: rgba(174, 81, 232, 0.1);
+}
+body.light .status_ended {
+  color: #e9bd3a;
+  background-color: #fbf4df;
+}
+body.light .status_canceled {
+  color: #746c84;
+  background: rgba(116, 108, 132, 0.1);
+}
+body.light .status_live {
+  color: #fd4a4a;
+  background: rgba(253, 74, 74, 0.1);
+}

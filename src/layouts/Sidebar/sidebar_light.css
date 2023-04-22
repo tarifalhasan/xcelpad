@@ -1,0 +1,34 @@
+body.light .left_side_bar {
+  background-color: #faf9fb;
+}
+body.light .left_side_bar ul li a {
+  color: #706781;
+}
+
+body.light .left_side_bar .logo h2 {
+  color: #44414c;
+}
+
+body.light .left_side_bar li.active .icon {
+  background: #ffffff;
+}
+body.light .left_side_bar li.active a {
+  color: #44414c;
+}
+
+body.light .bottom-logo h4,
+.font-11 {
+  color: #706781;
+}
+body.light .amount h4,
+.font-12 {
+  color: #44414c;
+}
+
+body.light .theme {
+  background: #eae9ed;
+}
+
+body.light .theme img.active {
+  background-color: #fff;
+}

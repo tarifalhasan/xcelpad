@@ -1,0 +1,40 @@
+body.dark .left_side_bar{
+    background: #2D2C30;
+
+}
+body.dark{
+    color: #A49FAD;
+}
+body.dark .left_side_bar ul li a {
+    color:  #A49FAD;
+  }
+
+body.dark .left_side_bar li.active a{
+    color: #F3F2F5;
+}
+  body.dark .left_side_bar .logo h2 {
+    color:  #FFFFFF;
+  }
+  
+  body.dark .left_side_bar li.active .icon {
+    background: #37353B;
+  }
+  body.dark .left_side_bar li.active a {
+    color: #F3F2F5;
+  }
+  
+  body.dark .bottom-logo h4{
+    color: #A49FAD;
+  }
+  body.dark .amount h4{
+    color: #F3F2F5;
+  }
+  
+  body.dark .theme {
+    background: #212022;
+  }
+  
+  body.dark .theme img.active {
+    background-color: #37353B;
+  }
+  
